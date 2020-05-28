@@ -1,0 +1,45 @@
+/*Background settings*/
+body{
+background-color: rgb(20, 20, 20);
+}
+/*Title of the program*/
+h1{
+color:rgb(233, 75, 75);
+font-size:80px;
+text-align: center;
+font-family: Impact;
+}
+/*The part that shows the
+randomly generated links*/
+h4{
+color:rgb(255, 85, 85);
+text-align: center;   
+font-family: Arial Black;
+font-size:20px;
+}
+/*Instructions*/
+h2{
+font-size:38px;
+text-align: center;
+font-family:Impact;
+color:rgb(253, 63, 63);
+}
+/*Labels for the randomly
+generated links*/
+h3{
+text-align: center;
+font-family:Arial Black;
+color:rgb(255, 255, 255);
+font-size: 25px;
+}
+/*Credits*/
+h6{
+text-align: center;
+color:rgba(255, 255, 255, 0.548);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
