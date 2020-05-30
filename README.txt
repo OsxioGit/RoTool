@@ -1,4 +1,7 @@
-Do not open the "home.js" or "main.css" files or delete them, those files are required for the program to run.
-All you need to do to run the program, is extract the folder, then open the "RoTool.html" file. Once it is 
-opened, there will be multiple links displaying randomly generated Roblox players, groups and avatar packages.
-New links are generated every 15 seconds.
+Welcome to RoTool, this is project that is continuously being worked on by the developer. The purpose 
+of this project is to project, is to provide intresting add-ons to Roblox such as, a random group 
+finder, a random player finder, a random avatar bundle finder, and a burner account generator for
+creating one-time-use accounts for things such as, trolling, going undercover, and for any other 
+purposes that you would need a burner account for. All you need to do to run this program is,
+extract the folder, open the folder, open RoTool.html and from there, you are done, and can use the 
+tools provided by the software.
