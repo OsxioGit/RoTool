@@ -2,11 +2,46 @@
 body{
   animation: bgcolor infinite 15s;
 }
-
+/*Profile Button*/
+#btn1{
+  display: block;
+  max-width: 300px;
+  margin: auto;
+  color: rgb(49, 49, 49);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 29px;
+  border:none;
+  font-family: Arial Black;
+}
+/*Group Button*/
+#btn2{
+  display: block;
+  max-width: 300px;
+  margin: auto;
+  color: rgb(49, 49, 49);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 29px;
+  border:none;
+  font-family: Arial Black;
+}
+/*Bundle Button*/
+#btn3{
+  display: block;
+  max-width: 300px;
+  margin: auto;
+  color: rgb(49, 49, 49);
+  background-color: white;
+  font-size: 20px;
+  padding: 12px 29px;
+  border:none;
+  font-family: Arial Black;
+}
 /*Title of the program*/
 h1{
-color:rgb(206, 206, 206);
-font-size:60px;
+color:rgb(255, 255, 255);
+font-size:90px;
 text-align: center;
 font-family: Impact;
 }
@@ -25,7 +60,7 @@ h2{
 font-size:30px;
 text-align: center;
 font-family:Impact;
-color:rgb(211, 211, 211);
+color:rgb(255, 255, 255);
 }
 
 /*Labels for the randomly
@@ -33,17 +68,11 @@ generated links*/
 h3{
 text-align: center;
 font-family:Arial Black;
-color:rgb(107, 107, 107);
+color:rgb(158, 158, 158);
 font-size: 20px;
 }
 
-/*Credits*/
-h6{
-text-align: center;
-color:rgba(255, 255, 255, 0.548);
-}
-
-/*I dont even remember what this is for*/
+/*Center*/
 .center {
     display: block;
     margin-left: auto;
@@ -51,15 +80,14 @@ color:rgba(255, 255, 255, 0.548);
     width: 50%;
   } 
 
-/*Burner account title*/
+/*End Text*/
   h5{
     color:rgb(206, 206, 206);
-    font-size:50px;
+    font-size:10px;
     text-align: center;
-    font-family: Impact;
  }
 
-/*Background settings*/
+/*Background Color Changer*/
 @keyframes bgcolor{
 0%
 {background:#222222;}
